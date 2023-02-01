@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "express-validator": "^6.3.0",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.8.1",
+    "mongoose": "^5.13.15",
     "pokedex-promise-v2": "^3.3.0"
   },
   "devDependencies": {
